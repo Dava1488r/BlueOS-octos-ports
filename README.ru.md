@@ -20,15 +20,16 @@
 
 ## 📱 Поддерживаемые устройства и центр загрузки
 
-| Устройство | Кодовое имя | Процессор | Статус порта | Готовый ZIP (Releases) | Инструкция |
+| Device | Codename | Platform | Port Status | Ready ZIP (Releases) | Guide |
 |---|---|---|:---:|:---:|:---:|
 | **Redmi Note 8T / 8** | `willow` / `ginkgo` | Qualcomm Snapdragon 665 | ✅ Проверено на железе | [Скачать ZIP (1.74 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-willow) | [Инструкция](Redmi%20Note%208t/INSTALL.ru.md) |
 | **POCO X3 Pro** | `vayu` / `bhima` | Qualcomm Snapdragon 860 | ✅ Готов к прошивке | [Скачать ZIP (1.76 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-vayu) | [Инструкция](Poco%20X3%20Pro/INSTALL.ru.md) |
 | **Google Pixel 7** | `panther` | Google Tensor G2 | ✅ Готов к прошивке | [Скачать ZIP (1.43 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-panther) | [Инструкция](Pixel%207/INSTALL.ru.md) |
 | **Google Pixel 7 Pro** | `cheetah` | Google Tensor G2 | ✅ Готов к прошивке | [Скачать ZIP (1.45 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-cheetah) | [Инструкция](Pixel%207pro/INSTALL.ru.md) |
 | **Google Pixel 7a** | `lynx` | Google Tensor G2 | ✅ Готов к прошивке | [Скачать ZIP (1.45 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-lynx) | [Инструкция](Pixel%207a/INSTALL.ru.md) |
-| **POCO M5** | `rock` / `stone` | MediaTek Helio G99 | 🔨 В процессе | Скоро | [Инструкция](Poco%20M5/INSTALL.ru.md) |
-| **POCO F7** | `onyx` | Qualcomm Snapdragon 8s Gen 4 | 📋 В очереди (OSS ядро) | Дерево найдено | Инструкция |
+| **POCO M5** | `rock` / `stone` | MediaTek Helio G99 | 🔨 Сборка прошивки | Скоро | [Инструкция](Poco%20M5/INSTALL.ru.md) |
+| **POCO F7** | `onyx` | Qualcomm Snapdragon 8s Gen 4 | 🔨 Подготовка дерева и OSS ядра | Скоро | [Инструкция](Poco%20F7/INSTALL.ru.md) |
+| **Redmi 7A** | `pine` / `mi439` | Qualcomm Snapdragon 439 | 🔨 Подготовка профиля 2 ГБ ОЗУ | Скоро | [Инструкция](Redmi%207a/INSTALL.ru.md) |
 
 ---
 
@@ -39,6 +40,9 @@
 - [`/Pixel 7/`](Pixel%207/) — Пакет прошивки Virtual A/B OTA, fastboot-образы и инструкция для Google Pixel 7 (`panther`).
 - [`/Pixel 7pro/`](Pixel%207pro/) — Пакет прошивки Virtual A/B OTA, fastboot-образы и инструкция для Google Pixel 7 Pro (`cheetah`).
 - [`/Pixel 7a/`](Pixel%207a/) — Пакет прошивки Virtual A/B OTA, fastboot-образы и инструкция для Google Pixel 7a (`lynx`).
+- [`/Poco M5/`](Poco%20M5/) — Порт на платформу MediaTek Helio G99 и руководство для POCO M5 (`rock` / `stone`).
+- [`/Poco F7/`](Poco%20F7/) — LineageOS 24.0, OSS ядро, камера Leica и руководство для POCO F7 (`onyx`).
+- [`/Redmi 7a/`](Redmi%207a/) — Оптимизированная сборка под 2 ГБ ОЗУ, профиль ZRAM и руководство для Redmi 7A (`pine`).
 
 ---
 

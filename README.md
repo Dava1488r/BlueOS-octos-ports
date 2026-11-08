@@ -27,8 +27,9 @@ Each port includes fully functioning native BlueOS components:
 | **Google Pixel 7** | `panther` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.43 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-panther) | [Guide](Pixel%207/INSTALL.md) |
 | **Google Pixel 7 Pro** | `cheetah` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-cheetah) | [Guide](Pixel%207pro/INSTALL.md) |
 | **Google Pixel 7a** | `lynx` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-lynx) | [Guide](Pixel%207a/INSTALL.md) |
-| **POCO M5** | `rock` / `stone` | MediaTek Helio G99 | 🔨 In Progress | Coming soon | [Guide](Poco%20M5/INSTALL.md) |
-| **POCO F7** | `onyx` | Qualcomm Snapdragon 8s Gen 4 | 📋 Queued (OSS Kernel) | Tree Found | Guide |
+| **POCO M5** | `rock` / `stone` | MediaTek Helio G99 | 🔨 Building ROM | Coming soon | [Guide](Poco%20M5/INSTALL.md) |
+| **POCO F7** | `onyx` | Qualcomm Snapdragon 8s Gen 4 | 🔨 Packaging Trees & OSS Kernel | Coming soon | [Guide](Poco%20F7/INSTALL.md) |
+| **Redmi 7A** | `pine` / `mi439` | Qualcomm Snapdragon 439 | 🔨 Preparing (2GB RAM Profile) | Coming soon | [Guide](Redmi%207a/INSTALL.md) |
 
 ---
 
@@ -39,6 +40,9 @@ Each port includes fully functioning native BlueOS components:
 - [`/Pixel 7/`](Pixel%207/) — Virtual A/B OTA recovery package, fastboot partitions, and guide for Google Pixel 7 (`panther`).
 - [`/Pixel 7pro/`](Pixel%207pro/) — Virtual A/B OTA recovery package, fastboot partitions, and guide for Google Pixel 7 Pro (`cheetah`).
 - [`/Pixel 7a/`](Pixel%207a/) — Virtual A/B OTA recovery package, fastboot partitions, and guide for Google Pixel 7a (`lynx`).
+- [`/Poco M5/`](Poco%20M5/) — MediaTek Helio G99 native port files and install guide for POCO M5 (`rock` / `stone`).
+- [`/Poco F7/`](Poco%20F7/) — LineageOS 24.0, OSS kernel, Leica camera integration, and guide for POCO F7 (`onyx`).
+- [`/Redmi 7a/`](Redmi%207a/) — 2GB RAM optimized build, ZRAM profile, and guide for Redmi 7A (`pine`).
 
 ---
 
