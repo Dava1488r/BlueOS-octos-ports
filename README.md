@@ -27,7 +27,7 @@ Each port incorporates BlueOS Kivotos UI styling adapted for the target device:
 | Device | Codename | Platform Base | Port Status | Ready ZIP (Releases) | Guide |
 |---|---|---|:---:|:---:|:---:|
 | **Redmi Note 8T / 8** | `willow` / `ginkgo` | Qualcomm SDM665 (LineageOS 24.0 / A17) | ✅ Booted & Verified | [Download ZIP (1.74 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-willow) | [Guide](Redmi%20Note%208t/INSTALL.md) |
-| **POCO X3 Pro** | `vayu` / `bhima` | Qualcomm SD860 (LineageOS 23.2 / A16) | ⚠️ Pre-release (Untested) | [Download ZIP (1.76 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-vayu) | [Guide](Poco%20X3%20Pro/INSTALL.md) |
+| **POCO X3 Pro** | `vayu` / `bhima` | Qualcomm SD860 (LineageOS 24.0 / A17) | ⚠️ Pre-release (Untested) | [Download ZIP (1.5 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-vayu) | [Guide](Poco%20X3%20Pro/INSTALL.md) |
 | **Google Pixel 7** | `panther` | Google Tensor G2 (LineageOS 24.0 / A17) | ⚠️ Pre-release (Untested) | [Download ZIP (1.43 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-panther) | [Guide](Pixel%207/INSTALL.md) |
 | **Google Pixel 7 Pro** | `cheetah` | Google Tensor G2 (LineageOS 24.0 / A17) | ⚠️ Pre-release (Untested) | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-cheetah) | [Guide](Pixel%207pro/INSTALL.md) |
 | **Google Pixel 7a** | `lynx` | Google Tensor G2 (LineageOS 24.0 / A17) | ⚠️ Pre-release (Untested) | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-lynx) | [Guide](Pixel%207a/INSTALL.md) |
