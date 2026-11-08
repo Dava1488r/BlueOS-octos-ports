@@ -22,10 +22,10 @@ Each port includes fully functioning native BlueOS components:
 
 | Device | Codename | Platform | Port Status | Ready ZIP (Releases) | Guide |
 |---|---|---|:---:|:---:|:---:|
-| **Redmi Note 8T / 8** | `willow` / `ginkgo` | Qualcomm Snapdragon 665 | ✅ Booted & Verified | [Download ZIP (1.74 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-willow) | [Guide](Redmi%20Note%208t/INSTALL.md) |
-| **Google Pixel 7** | `panther` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.43 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-panther) | [Guide](Pixel%207/INSTALL.md) |
-| **Google Pixel 7 Pro** | `cheetah` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-cheetah) | [Guide](Pixel%207pro/INSTALL.md) |
-| **Google Pixel 7a** | `lynx` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-lynx) | [Guide](Pixel%207a/INSTALL.md) |
+| **Redmi Note 8T / 8** | `willow` / `ginkgo` | Qualcomm Snapdragon 665 | ✅ Booted & Verified | [Download ZIP (1.74 GB)](https://github.com/Dava1488r/BlueOS-willow/releases/tag/v0.8.1-willow) | [Guide](Redmi%20Note%208t/INSTALL.md) |
+| **Google Pixel 7** | `panther` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.43 GB)](https://github.com/Dava1488r/BlueOS-willow/releases/tag/v0.8.1-panther) | [Guide](Pixel%207/INSTALL.md) |
+| **Google Pixel 7 Pro** | `cheetah` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-willow/releases/tag/v0.8.1-cheetah) | [Guide](Pixel%207pro/INSTALL.md) |
+| **Google Pixel 7a** | `lynx` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-willow/releases/tag/v0.8.1-lynx) | [Guide](Pixel%207a/INSTALL.md) |
 
 ---
 

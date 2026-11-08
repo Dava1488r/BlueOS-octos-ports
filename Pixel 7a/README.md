@@ -10,12 +10,12 @@ Port of BlueOS 0.8.1 for Google Pixel 7a (`lynx`).
 
 | File | Size | Description | Link |
 |---|---|---|---|
-| **BlueOS-0.8.1-lynx-20261108.zip** | 1.45 GB | Ready-to-flash Virtual A/B OTA Recovery Package | [Download from GitHub Releases](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-lynx/BlueOS-0.8.1-lynx-20261108.zip) |
-| **boot.img** | 64 MB | Fastboot partition image | [Download boot.img](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-lynx/boot.img) |
-| **init_boot.img** | 8 MB | Ramdisk boot partition image | [Download init_boot.img](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-lynx/init_boot.img) |
-| **vendor_boot.img** | 64 MB | Vendor boot partition image | [Download vendor_boot.img](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-lynx/vendor_boot.img) |
-| **dtbo.img** | 16 MB | Device Tree Blob Overlay | [Download dtbo.img](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-lynx/dtbo.img) |
-| **SHA256SUMS** | 1 KB | Checksum verification file | [View Checksums](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-lynx/SHA256SUMS) |
+| **BlueOS-0.8.1-lynx-20261108.zip** | 1.45 GB | Ready-to-flash Virtual A/B OTA Recovery Package | [Download from GitHub Releases](https://github.com/Dava1488r/BlueOS-willow/releases/download/v0.8.1-lynx/BlueOS-0.8.1-lynx-20261108.zip) |
+| **boot.img** | 64 MB | Fastboot partition image | [Download boot.img](https://github.com/Dava1488r/BlueOS-willow/releases/download/v0.8.1-lynx/boot.img) |
+| **init_boot.img** | 8 MB | Ramdisk boot partition image | [Download init_boot.img](https://github.com/Dava1488r/BlueOS-willow/releases/download/v0.8.1-lynx/init_boot.img) |
+| **vendor_boot.img** | 64 MB | Vendor boot partition image | [Download vendor_boot.img](https://github.com/Dava1488r/BlueOS-willow/releases/download/v0.8.1-lynx/vendor_boot.img) |
+| **dtbo.img** | 16 MB | Device Tree Blob Overlay | [Download dtbo.img](https://github.com/Dava1488r/BlueOS-willow/releases/download/v0.8.1-lynx/dtbo.img) |
+| **SHA256SUMS** | 1 KB | Checksum verification file | [View Checksums](https://github.com/Dava1488r/BlueOS-willow/releases/download/v0.8.1-lynx/SHA256SUMS) |
 
 - **Alternative Mirror**: [Release v0.8.1-lynx](https://github.com/Dava1488r/BlueOS-willow/releases/tag/v0.8.1-lynx)
 

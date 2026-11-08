@@ -22,10 +22,10 @@
 
 | Устройство | Кодовое имя | Процессор | Статус порта | Готовый ZIP (Releases) | Инструкция |
 |---|---|---|:---:|:---:|:---:|
-| **Redmi Note 8T / 8** | `willow` / `ginkgo` | Qualcomm Snapdragon 665 | ✅ Проверено на железе | [Скачать ZIP (1.74 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-willow) | [Инструкция](Redmi%20Note%208t/INSTALL.ru.md) |
-| **Google Pixel 7** | `panther` | Google Tensor G2 | ✅ Готов к прошивке | [Скачать ZIP (1.43 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-panther) | [Инструкция](Pixel%207/INSTALL.ru.md) |
-| **Google Pixel 7 Pro** | `cheetah` | Google Tensor G2 | ✅ Готов к прошивке | [Скачать ZIP (1.45 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-cheetah) | [Инструкция](Pixel%207pro/INSTALL.ru.md) |
-| **Google Pixel 7a** | `lynx` | Google Tensor G2 | ✅ Готов к прошивке | [Скачать ZIP (1.45 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-lynx) | [Инструкция](Pixel%207a/INSTALL.ru.md) |
+| **Redmi Note 8T / 8** | `willow` / `ginkgo` | Qualcomm Snapdragon 665 | ✅ Проверено на железе | [Скачать ZIP (1.74 ГБ)](https://github.com/Dava1488r/BlueOS-willow/releases/tag/v0.8.1-willow) | [Инструкция](Redmi%20Note%208t/INSTALL.ru.md) |
+| **Google Pixel 7** | `panther` | Google Tensor G2 | ✅ Готов к прошивке | [Скачать ZIP (1.43 ГБ)](https://github.com/Dava1488r/BlueOS-willow/releases/tag/v0.8.1-panther) | [Инструкция](Pixel%207/INSTALL.ru.md) |
+| **Google Pixel 7 Pro** | `cheetah` | Google Tensor G2 | ✅ Готов к прошивке | [Скачать ZIP (1.45 ГБ)](https://github.com/Dava1488r/BlueOS-willow/releases/tag/v0.8.1-cheetah) | [Инструкция](Pixel%207pro/INSTALL.ru.md) |
+| **Google Pixel 7a** | `lynx` | Google Tensor G2 | ✅ Готов к прошивке | [Скачать ZIP (1.45 ГБ)](https://github.com/Dava1488r/BlueOS-willow/releases/tag/v0.8.1-lynx) | [Инструкция](Pixel%207a/INSTALL.ru.md) |
 
 ---
 

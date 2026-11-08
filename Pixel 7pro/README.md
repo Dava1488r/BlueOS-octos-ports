@@ -10,12 +10,12 @@ Port of BlueOS 0.8.1 for Google Pixel 7 Pro (`cheetah`).
 
 | File | Size | Description | Link |
 |---|---|---|---|
-| **BlueOS-0.8.1-cheetah-20261108.zip** | 1.45 GB | Ready-to-flash Virtual A/B OTA Recovery Package | [Download from GitHub Releases](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-cheetah/BlueOS-0.8.1-cheetah-20261108.zip) |
-| **boot.img** | 64 MB | Fastboot partition image | [Download boot.img](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-cheetah/boot.img) |
-| **init_boot.img** | 8 MB | Ramdisk boot partition image | [Download init_boot.img](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-cheetah/init_boot.img) |
-| **vendor_boot.img** | 64 MB | Vendor boot partition image | [Download vendor_boot.img](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-cheetah/vendor_boot.img) |
-| **dtbo.img** | 16 MB | Device Tree Blob Overlay | [Download dtbo.img](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-cheetah/dtbo.img) |
-| **SHA256SUMS** | 1 KB | Checksum verification file | [View Checksums](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-cheetah/SHA256SUMS) |
+| **BlueOS-0.8.1-cheetah-20261108.zip** | 1.45 GB | Ready-to-flash Virtual A/B OTA Recovery Package | [Download from GitHub Releases](https://github.com/Dava1488r/BlueOS-willow/releases/download/v0.8.1-cheetah/BlueOS-0.8.1-cheetah-20261108.zip) |
+| **boot.img** | 64 MB | Fastboot partition image | [Download boot.img](https://github.com/Dava1488r/BlueOS-willow/releases/download/v0.8.1-cheetah/boot.img) |
+| **init_boot.img** | 8 MB | Ramdisk boot partition image | [Download init_boot.img](https://github.com/Dava1488r/BlueOS-willow/releases/download/v0.8.1-cheetah/init_boot.img) |
+| **vendor_boot.img** | 64 MB | Vendor boot partition image | [Download vendor_boot.img](https://github.com/Dava1488r/BlueOS-willow/releases/download/v0.8.1-cheetah/vendor_boot.img) |
+| **dtbo.img** | 16 MB | Device Tree Blob Overlay | [Download dtbo.img](https://github.com/Dava1488r/BlueOS-willow/releases/download/v0.8.1-cheetah/dtbo.img) |
+| **SHA256SUMS** | 1 KB | Checksum verification file | [View Checksums](https://github.com/Dava1488r/BlueOS-willow/releases/download/v0.8.1-cheetah/SHA256SUMS) |
 
 - **Alternative Mirror**: [Release v0.8.1-cheetah](https://github.com/Dava1488r/BlueOS-willow/releases/tag/v0.8.1-cheetah)
 
