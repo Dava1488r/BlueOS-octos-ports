@@ -33,7 +33,6 @@ Each port incorporates BlueOS Kivotos UI styling adapted for the target device:
 | **Google Pixel 7a** | `lynx` | Google Tensor G2 (LineageOS 24.0 / A17) | ⚠️ Pre-release (Untested) | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-lynx) | [Guide](Pixel%207a/INSTALL.md) |
 | **POCO M5** | `rock` / `stone` | MediaTek Helio G99 (LineageOS 24.0 / A17) | ⚠️ Pre-release (Untested) | [Download ZIP (1.1 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-rock) | [Guide](Poco%20M5/INSTALL.md) |
 | **POCO F7** | `onyx` | Qualcomm SM8735 (OSS Kernel, LineageOS 24.0) | ⚠️ Pre-release (Untested) | [Download ZIP (1.05 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-onyx) | [Guide](Poco%20F7/INSTALL.md) |
-| **Redmi 7A** | `pine` / `mi439` | Qualcomm SDM439 (LineageOS 21.0 / A14, 2GB) | ⚠️ Pre-release (Untested) | [Download ZIP (1.02 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-pine) | [Guide](Redmi%207a/INSTALL.md) |
 
 ---
 
@@ -46,7 +45,6 @@ Each port incorporates BlueOS Kivotos UI styling adapted for the target device:
 - [`/Pixel 7a/`](Pixel%207a/) — Virtual A/B OTA recovery package, fastboot partitions, and guide for Google Pixel 7a (`lynx`).
 - [`/Poco M5/`](Poco%20M5/) — MediaTek Helio G99 port files and install guide for POCO M5 (`rock` / `stone`).
 - [`/Poco F7/`](Poco%20F7/) — LineageOS 24.0 with SM8735 OSS kernel port files and guide for POCO F7 (`onyx`).
-- [`/Redmi 7a/`](Redmi%207a/) — Low-RAM 2GB profile build (LineageOS 21.0 base) and guide for Redmi 7A (`pine`).
 - [`/tools/`](tools/) — ROM repacking, payload extraction, and image injection scripts.
 - [`ASSETS.md`](ASSETS.md) / [`ASSETS.ru.md`](ASSETS.ru.md) — Guide for importing custom Blue Archive character assets on-device.
 - [`NOTICE`](NOTICE) — Upstream attribution and licensing.
