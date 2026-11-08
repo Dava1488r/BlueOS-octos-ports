@@ -22,16 +22,20 @@ Each port includes fully functioning native BlueOS components:
 
 | Device | Codename | Platform | Port Status | Ready ZIP (Releases) | Guide |
 |---|---|---|:---:|:---:|:---:|
-| **Redmi Note 8T / 8** | `willow` / `ginkgo` | Qualcomm Snapdragon 665 | ✅ Booted & Verified | [Download ZIP (1.74 GB)](https://github.com/Dava1488r/BlueOS-willow/releases/tag/v0.8.1-willow) | [Guide](Redmi%20Note%208t/INSTALL.md) |
-| **Google Pixel 7** | `panther` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.43 GB)](https://github.com/Dava1488r/BlueOS-willow/releases/tag/v0.8.1-panther) | [Guide](Pixel%207/INSTALL.md) |
-| **Google Pixel 7 Pro** | `cheetah` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-willow/releases/tag/v0.8.1-cheetah) | [Guide](Pixel%207pro/INSTALL.md) |
-| **Google Pixel 7a** | `lynx` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-willow/releases/tag/v0.8.1-lynx) | [Guide](Pixel%207a/INSTALL.md) |
+| **Redmi Note 8T / 8** | `willow` / `ginkgo` | Qualcomm Snapdragon 665 | ✅ Booted & Verified | [Download ZIP (1.74 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-willow) | [Guide](Redmi%20Note%208t/INSTALL.md) |
+| **POCO X3 Pro** | `vayu` / `bhima` | Qualcomm Snapdragon 860 | ✅ Ready to flash | [Download ZIP (1.76 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-vayu) | [Guide](Poco%20X3%20Pro/INSTALL.md) |
+| **Google Pixel 7** | `panther` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.43 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-panther) | [Guide](Pixel%207/INSTALL.md) |
+| **Google Pixel 7 Pro** | `cheetah` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-cheetah) | [Guide](Pixel%207pro/INSTALL.md) |
+| **Google Pixel 7a** | `lynx` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-lynx) | [Guide](Pixel%207a/INSTALL.md) |
+| **POCO M5** | `rock` / `stone` | MediaTek Helio G99 | 🔨 In Progress | Coming soon | [Guide](Poco%20M5/INSTALL.md) |
+| **POCO F7** | `onyx` | Qualcomm Snapdragon 8s Gen 4 | 📋 Queued (OSS Kernel) | Tree Found | Guide |
 
 ---
 
 ## 📂 Repository Structure
 
 - [`/Redmi Note 8t/`](Redmi%20Note%208t/) — Port files, flashable package links, and step-by-step install guide for Redmi Note 8T (`willow`) & Redmi Note 8 (`ginkgo`).
+- [`/Poco X3 Pro/`](Poco%20X3%20Pro/) — Dynamic partition package, fastboot recovery images, and guide for POCO X3 Pro (`vayu` / `bhima`).
 - [`/Pixel 7/`](Pixel%207/) — Virtual A/B OTA recovery package, fastboot partitions, and guide for Google Pixel 7 (`panther`).
 - [`/Pixel 7pro/`](Pixel%207pro/) — Virtual A/B OTA recovery package, fastboot partitions, and guide for Google Pixel 7 Pro (`cheetah`).
 - [`/Pixel 7a/`](Pixel%207a/) — Virtual A/B OTA recovery package, fastboot partitions, and guide for Google Pixel 7a (`lynx`).
