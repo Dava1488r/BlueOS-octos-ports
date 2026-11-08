@@ -1,6 +1,6 @@
 # BlueOS for Redmi 7A (`pine` / `mi439`) 🌸
 
-[![Status](https://img.shields.io/badge/Port_Status-Building-orange?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Port_Status-Ready_to_flash-brightgreen?style=flat-square)]()
 [![Android](https://img.shields.io/badge/OS-Android%2014%20(LineageOS%2021.0)-blue?style=flat-square)]()
 [![Platform](https://img.shields.io/badge/SoC-Qualcomm%20Snapdragon%20439%20(SDM439)-red?style=flat-square)]()
 [![Optimization](https://img.shields.io/badge/RAM_Optimization-2GB_ZRAM_LZ4-success?style=flat-square)]()
@@ -22,9 +22,11 @@ Redmi 7A models typically come with **2GB of physical RAM**. To deliver smooth K
 
 | File | Size | Description | Link |
 |---|---|---|---|
-| **BlueOS-0.8.1-pine-20261108.zip** | ~1.1 GB | Flashable Recovery ROM Package | [Download from GitHub Releases](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-pine) |
+| **BlueOS-0.8.1-pine-20261108.zip** | 1.02 GB | Flashable Recovery ROM Package | [Download from GitHub Releases](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-pine) |
 | **boot.img** | 64 MB | Kernel boot image | [Download boot.img](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-pine/boot.img) |
 | **recovery.img** | 64 MB | BlueOS Recovery | [Download recovery.img](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-pine/recovery.img) |
+| **dtbo.img** | 8 MB | Device Tree Blob Overlay | [Download dtbo.img](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-pine/dtbo.img) |
+| **vbmeta.img** | 8 KB | Verification metadata partition | [Download vbmeta.img](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-pine/vbmeta.img) |
 | **SHA256SUMS** | 1 KB | Verification checksums | [View Checksums](https://github.com/Dava1488r/BlueOS-octos-ports/releases/download/v0.8.1-pine/SHA256SUMS) |
 
 ---

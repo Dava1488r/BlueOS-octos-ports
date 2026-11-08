@@ -29,7 +29,7 @@ Each port includes fully functioning native BlueOS components:
 | **Google Pixel 7a** | `lynx` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-lynx) | [Guide](Pixel%207a/INSTALL.md) |
 | **POCO M5** | `rock` / `stone` | MediaTek Helio G99 | ✅ Ready to flash | [Download ZIP (1.1 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-rock) | [Guide](Poco%20M5/INSTALL.md) |
 | **POCO F7** | `onyx` | Qualcomm Snapdragon 8s Gen 4 | ✅ Ready to flash | [Download ZIP (1.05 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-onyx) | [Guide](Poco%20F7/INSTALL.md) |
-| **Redmi 7A** | `pine` / `mi439` | Qualcomm Snapdragon 439 | 🔨 Preparing (2GB RAM Profile) | Coming soon | [Guide](Redmi%207a/INSTALL.md) |
+| **Redmi 7A** | `pine` / `mi439` | Qualcomm Snapdragon 439 | ✅ Ready to flash (2GB Profile) | [Download ZIP (1.02 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-pine) | [Guide](Redmi%207a/INSTALL.md) |
 
 ---
 
