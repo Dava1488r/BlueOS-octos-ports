@@ -27,7 +27,7 @@
 | **Google Pixel 7** | `panther` | Google Tensor G2 | ✅ Готов к прошивке | [Скачать ZIP (1.43 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-panther) | [Инструкция](Pixel%207/INSTALL.ru.md) |
 | **Google Pixel 7 Pro** | `cheetah` | Google Tensor G2 | ✅ Готов к прошивке | [Скачать ZIP (1.45 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-cheetah) | [Инструкция](Pixel%207pro/INSTALL.ru.md) |
 | **Google Pixel 7a** | `lynx` | Google Tensor G2 | ✅ Готов к прошивке | [Скачать ZIP (1.45 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-lynx) | [Инструкция](Pixel%207a/INSTALL.ru.md) |
-| **POCO M5** | `rock` / `stone` | MediaTek Helio G99 | 🔨 Сборка прошивки | Скоро | [Инструкция](Poco%20M5/INSTALL.ru.md) |
+| **POCO M5** | `rock` / `stone` | MediaTek Helio G99 | ✅ Готов к прошивке | [Скачать ZIP (1.1 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-rock) | [Инструкция](Poco%20M5/INSTALL.ru.md) |
 | **POCO F7** | `onyx` | Qualcomm Snapdragon 8s Gen 4 | 🔨 Подготовка дерева и OSS ядра | Скоро | [Инструкция](Poco%20F7/INSTALL.ru.md) |
 | **Redmi 7A** | `pine` / `mi439` | Qualcomm Snapdragon 439 | 🔨 Подготовка профиля 2 ГБ ОЗУ | Скоро | [Инструкция](Redmi%207a/INSTALL.ru.md) |
 

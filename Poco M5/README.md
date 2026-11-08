@@ -1,6 +1,6 @@
 # BlueOS for POCO M5 (`rock` / `stone`) 🌸
 
-[![Status](https://img.shields.io/badge/Port_Status-Building-orange?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Port_Status-Ready-brightgreen?style=flat-square)]()
 [![Android](https://img.shields.io/badge/OS-Android%2017%20(LineageOS%2024.0)-blue?style=flat-square)]()
 [![Platform](https://img.shields.io/badge/SoC-MediaTek%20Helio%20G99%20(MT6789)-green?style=flat-square)]()
 

@@ -27,7 +27,7 @@ Each port includes fully functioning native BlueOS components:
 | **Google Pixel 7** | `panther` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.43 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-panther) | [Guide](Pixel%207/INSTALL.md) |
 | **Google Pixel 7 Pro** | `cheetah` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-cheetah) | [Guide](Pixel%207pro/INSTALL.md) |
 | **Google Pixel 7a** | `lynx` | Google Tensor G2 | ✅ Ready to flash | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-lynx) | [Guide](Pixel%207a/INSTALL.md) |
-| **POCO M5** | `rock` / `stone` | MediaTek Helio G99 | 🔨 Building ROM | Coming soon | [Guide](Poco%20M5/INSTALL.md) |
+| **POCO M5** | `rock` / `stone` | MediaTek Helio G99 | ✅ Ready to flash | [Download ZIP (1.1 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-rock) | [Guide](Poco%20M5/INSTALL.md) |
 | **POCO F7** | `onyx` | Qualcomm Snapdragon 8s Gen 4 | 🔨 Packaging Trees & OSS Kernel | Coming soon | [Guide](Poco%20F7/INSTALL.md) |
 | **Redmi 7A** | `pine` / `mi439` | Qualcomm Snapdragon 439 | 🔨 Preparing (2GB RAM Profile) | Coming soon | [Guide](Redmi%207a/INSTALL.md) |
 
