@@ -1,20 +1,22 @@
 # BlueOS for Redmi 7A (`pine` / `mi439`) 🌸
 
-[![Status](https://img.shields.io/badge/Port_Status-Ready_to_flash-brightgreen?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Port_Status-Pre--release%20(Untested)-yellow?style=flat-square)]()
 [![Android](https://img.shields.io/badge/OS-Android%2014%20(LineageOS%2021.0)-blue?style=flat-square)]()
 [![Platform](https://img.shields.io/badge/SoC-Qualcomm%20Snapdragon%20439%20(SDM439)-red?style=flat-square)]()
-[![Optimization](https://img.shields.io/badge/RAM_Optimization-2GB_ZRAM_LZ4-success?style=flat-square)]()
+[![Optimization](https://img.shields.io/badge/RAM_Optimization-2GB_Low--RAM_Profile-success?style=flat-square)]()
 
-Native port of **BlueOS 0.8.1** (Blue Archive themed Android OS based on **LineageOS 21.0**) specifically tuned and optimized for **Xiaomi Redmi 7A** (`pine`) and the unified **mi439** family (Redmi 7A, Redmi 8, Redmi 8A).
+> ⚠️ **Pre-release Warning**: This port is experimental and has not been verified on physical hardware. Flash at your own risk.
+
+Community port of **BlueOS 0.8.1** (Blue Archive themed Android OS based on **LineageOS 21.0 / Android 14**) specifically tuned and optimized for **Xiaomi Redmi 7A** (`pine`) and the unified **mi439** family (Redmi 7A, Redmi 8, Redmi 8A).
+Based on [BlueOS by GDmio](https://github.com/GDmio/BlueOS).
 
 ---
 
 ## ⚡ Special 2GB RAM Optimization Profile
-Redmi 7A models typically come with **2GB of physical RAM**. To deliver smooth Kivotos UI performance without launcher redraws or OOM kills:
+Redmi 7A models typically come with **2GB of physical RAM**. To deliver smooth UI performance without launcher redraws or OOM kills:
 - **ZRAM 2.0 GB Swap**: High-compression LZ4 zram paging enabled by default.
 - **Tuned Dalvik Heap**: `heapgrowthlimit=128m`, `heapsize=256m` prevents heap fragmentation.
-- **Optimized Blur & Translucency**: GPU-accelerated lightweight shaders replace heavy multi-pass blurs on Adreno 505.
-- **Arona Lite Background Service**: Reduced memory footprint for MomoTalk background sync.
+- **Optimized Blur & Translucency**: Heavy compositor blur layers disabled to preserve fillrate on Adreno 505.
 
 ---
 
@@ -34,12 +36,3 @@ Redmi 7A models typically come with **2GB of physical RAM**. To deliver smooth K
 ## 📖 Installation Instructions
 - 🇷🇺 [Русская инструкция по установке](INSTALL.ru.md)
 - 🇬🇧 [English Installation Guide](INSTALL.md)
-
----
-
-## ⚙️ Device Specifications
-- **SoC**: Qualcomm Snapdragon 439 (SDM439, 12nm)
-- **CPU**: 8x ARM Cortex-A53 @ up to 2.0 GHz
-- **GPU**: Qualcomm Adreno 505
-- **RAM**: 2 GB / 3 GB LPDDR3
-- **Display**: 5.45" HD+ IPS LCD (1440 x 720)

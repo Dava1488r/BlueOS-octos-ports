@@ -1,18 +1,19 @@
 # BlueOS for POCO F7 (`onyx`) 🌸
 
-[![Status](https://img.shields.io/badge/Port_Status-Ready_to_flash-brightgreen?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Port_Status-Pre--release%20(Untested)-yellow?style=flat-square)]()
 [![Android](https://img.shields.io/badge/OS-Android%2017%20(LineageOS%2024.0)-blue?style=flat-square)]()
 [![Platform](https://img.shields.io/badge/SoC-Qualcomm%20Snapdragon%208s%20Gen%204%20(SM8735)-red?style=flat-square)]()
 [![Kernel](https://img.shields.io/badge/Kernel-OSS%20Kernel%20(SM8735)-green?style=flat-square)]()
-[![Camera](https://img.shields.io/badge/Camera-Leica%20Camera%20Stack-red?style=flat-square)]()
 
-Native port of **BlueOS 0.8.1** (Blue Archive themed Android OS based on **LineageOS 24.0 / Android 17**) for **Xiaomi POCO F7 / Redmi Turbo 4 Pro** (`onyx`).
+> ⚠️ **Pre-release Warning**: This port is experimental and has not been verified on physical hardware. Flash at your own risk.
+
+Community port of **BlueOS 0.8.1** (Blue Archive themed Android OS based on **LineageOS 24.0 / Android 17**) for **Xiaomi POCO F7 / Redmi Turbo 4 Pro** (`onyx`).
+Based on [BlueOS by GDmio](https://github.com/GDmio/BlueOS).
 
 Features:
-- **Upstream Base**: LineageOS 24.0 (Android 17) maintained by `@grewal` (Adarsh Grewal) / `@stuff_and_things` (`xiaomi-onyx-dev`).
-- **Open-Source Kernel**: Official OSS Kernel compiled from `android_kernel_xiaomi_sm8735`.
-- **Integrated Leica Camera**: Full hardware-accelerated Leica camera pipeline, HDR, portrait bokeh, 4K/8K 60fps video capture.
-- **BlueOS Kivotos Shell**: Custom Sensei SystemUI, Arona lockscreen widgets, MomoTalk messenger sound engine.
+- **Base**: LineageOS 24.0 (Android 17) tree for `onyx`.
+- **Open-Source Kernel**: Built with OSS kernel header v4 images (`android_kernel_xiaomi_sm8735`).
+- **BlueOS Kivotos UI**: BlueOS SystemUI, ThemePicker color styles, and launcher customizations.
 
 ---
 
@@ -32,12 +33,3 @@ Features:
 ## 📖 Installation Instructions
 - 🇷🇺 [Русская инструкция по установке](INSTALL.ru.md)
 - 🇬🇧 [English Installation Guide](INSTALL.md)
-
----
-
-## ⚙️ Hardware Specifications
-- **SoC**: Qualcomm Snapdragon 8s Gen 4 (SM8735, TSMC 4nm)
-- **CPU**: 1x Cortex-X4 @ 3.0 GHz + 4x Cortex-A720 @ 2.8 GHz + 3x Cortex-A520 @ 2.0 GHz
-- **GPU**: Adreno 735
-- **Camera Stack**: 50 MP Sony IMX / Light Fusion with Leica Summilux lens integration
-- **Display**: 6.67" 1.5K OLED, 120Hz, Dolby Vision, HDR10+

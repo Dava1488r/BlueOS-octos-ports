@@ -1,6 +1,6 @@
 # Installing ready-made BlueOS on a Redmi Note 8 / Redmi Note 8T
 
-**English** | [Русский](INSTALL-RedmiNote8T.ru.md)
+**English** | [Русский](INSTALL.ru.md)
 
 This guide and this zip are for **Redmi Note 8T** (codename `willow`) and **Redmi Note 8** (codename `ginkgo`); the build is on the **Releases** page (`v0.8.1-willow`).
 
@@ -19,7 +19,7 @@ BlueOS is based on **LineageOS 24.0 (Android 17)** with the BlueOS layer (live h
 - **Unlocked bootloader:** Required. Unlocking your bootloader wipes all data.
 - **Backup EFS and Persist:** In recovery, always make a backup of **EFS** and **Persist** partitions to a MicroSD card or PC. These store your modem calibrations, Wi-Fi MAC and IMEI.
 - **Clean wipe:** Coming from MIUI or another custom ROM requires formatting data.
-- **Characters & Sounds:** In compliance with licensing, game assets from Nexon/Yostar are not pre-packaged. You can add the character (Arona / Plana) directly on the phone via: *Settings → Wallpaper & style → Character → Add character files* ([ASSETS.md](ASSETS.md)).
+- **Characters & Sounds:** In compliance with licensing, game assets from Nexon/Yostar are not pre-packaged. You can add the character (Arona / Plana) directly on the phone via: *Settings → Wallpaper & style → Character → Add character files* ([ASSETS.md](../ASSETS.md)).
 - **Google Play:** Included out-of-the-box (MindTheGapps for Android 17).
 
 ---

@@ -1,15 +1,15 @@
 # Installing ready-made BlueOS on a Google Pixel 7
 
-**English** | [Русский](INSTALL-Pixel7.ru.md)
+**English** | [Русский](INSTALL.ru.md)
 
-This guide and this zip are **only for the Pixel 7** (codename `panther`); the build is on the **Releases** page (`v0.8.1-panther`). Don't install it on a Pixel 7 Pro or a Pixel 7a: it won't boot. For the Pixel 7 Pro see [INSTALL-Pixel7Pro.md](INSTALL-Pixel7Pro.md), for the Pixel 7a [INSTALL-Pixel7a.md](INSTALL-Pixel7a.md).
+This guide and this zip are **only for the Pixel 7** (codename `panther`); the build is on the **Releases** page (`v0.8.1-panther`). Don't install it on a Pixel 7 Pro or a Pixel 7a: it won't boot. For the Pixel 7 Pro see [Pixel 7 Pro](../Pixel%207pro/INSTALL.md), for the Pixel 7a [Pixel 7a](../Pixel%207a/INSTALL.md).
 
 ## ⚠️ Read before you start
 - **Unofficial fan ROM, no warranty of any kind.** Whatever you do to your phone is at your own risk. This is not a LineageOS build: don't report BlueOS bugs to LineageOS, report them here (Issues).
 - **Everything on the phone will be erased**: once when you unlock the bootloader and again when you install. Save your photos, chats and **two-factor codes** (Google Authenticator and the like) beforehand. Remove your Google account from the phone so that it doesn't ask for the old one after the reset.
 - **The bootloader stays unlocked.** The phone shows a warning about it on every boot, and that is expected. **Don't lock the bootloader while BlueOS is installed**: the phone will stop booting.
 - **Some apps may not work:** tap to pay (Google Wallet), some banking apps and games.
-- **This build has no Blue Archive character or sounds.** Everything else works. You can add the game files right on the phone: Wallpaper & style → Character → Character files ([ASSETS.md](ASSETS.md)). Where to get them: the link in the description of the author's TikTok profile, [tiktok.com/@chozadaun](https://www.tiktok.com/@chozadaun).
+- **This build has no Blue Archive character or sounds.** Everything else works. You can add the game files right on the phone: Wallpaper & style → Character → Character files ([ASSETS.md](../ASSETS.md)). Where to get them: the link in the description of the author's TikTok profile, [tiktok.com/@chozadaun](https://www.tiktok.com/@chozadaun).
 - **Google Play is included** (MindTheGapps).
 - A carrier-locked phone can't unlock its bootloader, and then BlueOS can't be installed.
 
