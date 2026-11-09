@@ -33,7 +33,6 @@
 | **Google Pixel 7a** | `lynx` | Google Tensor G2 (LineageOS 24.0 / A17) | ⚠️ Pre-release (Не тестировался) | [Скачать ZIP (1.45 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-lynx) | [Инструкция](Pixel%207a/INSTALL.ru.md) |
 | **POCO M5** | `rock` / `stone` | MediaTek Helio G99 (LineageOS 24.0 / A17) | ⚠️ Pre-release (Не тестировался) | [Скачать ZIP (1.1 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-rock) | [Инструкция](Poco%20M5/INSTALL.ru.md) |
 | **POCO F7** | `onyx` | Qualcomm SM8735 (OSS ядро, LineageOS 24.0) | ⚠️ Pre-release (Не тестировался) | [Скачать ZIP (1.05 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-onyx) | [Инструкция](Poco%20F7/INSTALL.ru.md) |
-| **Samsung Galaxy A71 4G** | `a71` | Qualcomm SD730 (LineageOS 23.2 / A16) | ⚠️ Pre-release (Не тестировался) | [Скачать ZIP (1.19 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-a71) | [Инструкция](Samsung%20Galaxy%20A71/INSTALL.ru.md) |
 
 ---
 
@@ -46,7 +45,6 @@
 - [`/Pixel 7a/`](Pixel%207a/) — Пакет Virtual A/B OTA, fastboot-образы и инструкция для Google Pixel 7a (`lynx`).
 - [`/Poco M5/`](Poco%20M5/) — Порт на платформу MediaTek Helio G99 для POCO M5 (`rock` / `stone`).
 - [`/Poco F7/`](Poco%20F7/) — LineageOS 24.0 с OSS ядром SM8735 для POCO F7 (`onyx`).
-- [`/Samsung Galaxy A71/`](Samsung%20Galaxy%20A71/) — Пакет с динамическими разделами, Odin `recovery.tar` и инструкция для Samsung Galaxy A71 4G (`a71`).
 - [`/tools/`](tools/) — Скрипты распаковки payload.bin, работы с ext4/sdat и перепаковки ROM.
 - [`ASSETS.ru.md`](ASSETS.ru.md) / [`ASSETS.md`](ASSETS.md) — Руководство по загрузке ресурсов Blue Archive на телефоне.
 - [`NOTICE`](NOTICE) — Лицензия и атрибуция оригинального проекта.
