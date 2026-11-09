@@ -33,12 +33,14 @@
 | **Google Pixel 7a** | `lynx` | Google Tensor G2 (LineageOS 24.0 / A17) | ⚠️ Pre-release (Не тестировался) | [Скачать ZIP (1.45 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-lynx) | [Инструкция](Pixel%207a/INSTALL.ru.md) |
 | **POCO M5** | `rock` / `stone` | MediaTek Helio G99 (LineageOS 24.0 / A17) | ⚠️ Pre-release (Не тестировался) | [Скачать ZIP (1.1 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-rock) | [Инструкция](Poco%20M5/INSTALL.ru.md) |
 | **POCO F7** | `onyx` | Qualcomm SM8735 (OSS ядро, LineageOS 24.0) | ⚠️ Pre-release (Не тестировался) | [Скачать ZIP (1.05 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-onyx) | [Инструкция](Poco%20F7/INSTALL.ru.md) |
+| **Redmi Note 10 4G** | `mojito` / `sunny` | Qualcomm SD678 (LineageOS 24.0 / A17) | ⚠️ Pre-release (Не тестировался) | [Скачать ZIP (1.2 ГБ)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-mojito) | [Инструкция](Redmi%20Note%2010/INSTALL.ru.md) |
 
 ---
 
 ## 📂 Структура репозитория
 
 - [`/Redmi Note 8t/`](Redmi%20Note%208t/) — Порт и пошаговая инструкция для Redmi Note 8T (`willow`) и Redmi Note 8 (`ginkgo`).
+- [`/Redmi Note 10/`](Redmi%20Note%2010/) — Файлы порта на базе LineageOS 24.0, fastboot-образы и инструкция для Redmi Note 10 4G (`mojito` / `sunny`).
 - [`/Poco X3 Pro/`](Poco%20X3%20Pro/) — Пакет с динамическими разделами и инструкция для POCO X3 Pro (`vayu` / `bhima`).
 - [`/Pixel 7/`](Pixel%207/) — Пакет Virtual A/B OTA, fastboot-образы и инструкция для Google Pixel 7 (`panther`).
 - [`/Pixel 7pro/`](Pixel%207pro/) — Пакет Virtual A/B OTA, fastboot-образы и инструкция для Google Pixel 7 Pro (`cheetah`).

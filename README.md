@@ -33,12 +33,14 @@ Each port incorporates BlueOS Kivotos UI styling adapted for the target device:
 | **Google Pixel 7a** | `lynx` | Google Tensor G2 (LineageOS 24.0 / A17) | ⚠️ Pre-release (Untested) | [Download ZIP (1.45 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-lynx) | [Guide](Pixel%207a/INSTALL.md) |
 | **POCO M5** | `rock` / `stone` | MediaTek Helio G99 (LineageOS 24.0 / A17) | ⚠️ Pre-release (Untested) | [Download ZIP (1.1 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-rock) | [Guide](Poco%20M5/INSTALL.md) |
 | **POCO F7** | `onyx` | Qualcomm SM8735 (OSS Kernel, LineageOS 24.0) | ⚠️ Pre-release (Untested) | [Download ZIP (1.05 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-onyx) | [Guide](Poco%20F7/INSTALL.md) |
+| **Redmi Note 10 4G** | `mojito` / `sunny` | Qualcomm SD678 (LineageOS 24.0 / A17) | ⚠️ Pre-release (Untested) | [Download ZIP (1.2 GB)](https://github.com/Dava1488r/BlueOS-octos-ports/releases/tag/v0.8.1-mojito) | [Guide](Redmi%20Note%2010/INSTALL.md) |
 
 ---
 
 ## 📂 Repository Structure
 
 - [`/Redmi Note 8t/`](Redmi%20Note%208t/) — Port files, flashable package links, and step-by-step install guide for Redmi Note 8T (`willow`) & Redmi Note 8 (`ginkgo`).
+- [`/Redmi Note 10/`](Redmi%20Note%2010/) — LineageOS 24.0 port files, fastboot images, and install guide for Redmi Note 10 4G (`mojito` / `sunny`).
 - [`/Poco X3 Pro/`](Poco%20X3%20Pro/) — Dynamic partition package, fastboot recovery images, and guide for POCO X3 Pro (`vayu` / `bhima`).
 - [`/Pixel 7/`](Pixel%207/) — Virtual A/B OTA recovery package, fastboot partitions, and guide for Google Pixel 7 (`panther`).
 - [`/Pixel 7pro/`](Pixel%207pro/) — Virtual A/B OTA recovery package, fastboot partitions, and guide for Google Pixel 7 Pro (`cheetah`).
